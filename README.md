@@ -11,4 +11,5 @@ python main.py <departamento>
 ## Aclaracion
 Debido a que obtener la informacion del TSE requiere un web scrapper no me comprometo a que los datos extraidos se mantengan validos por mucho tiempo.
 
-### Este codigo esta bajo licencia GNU LESSER GENERAL PUBLIC LICENSE Version 3
+### Copyright
+Este codigo esta bajo licencia GNU LESSER GENERAL PUBLIC LICENSE Version 3
