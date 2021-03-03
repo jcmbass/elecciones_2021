@@ -3,4 +3,8 @@ Simple programa escrito en python para obtener los diputados ganadores en base a
 
 En vista que el TSE no cuenta con una visualizacion sencilla de los resultados de las elecciones legislativas 2021, me tome la libertad de escribir este programa para obtener los ganadores por departamento en base al numero de diputados obtenidos por partido y el numero de marcas por rostro para cada diputado.
 
-uso: python main.py <departamento>
+### uso
+```
+python main.py <departamento>
+```
+Este codigo esta bajo licencia GNU LESSER GENERAL PUBLIC LICENSE Version 3
