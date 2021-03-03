@@ -7,4 +7,8 @@ En vista que el TSE no cuenta con una visualizacion sencilla de los resultados d
 ```
 python main.py <departamento>
 ```
-Este codigo esta bajo licencia GNU LESSER GENERAL PUBLIC LICENSE Version 3
+
+## Aclaracion
+Debido a que obtener la informacion del TSE requiere un web scrapper no me comprometo a que los datos extraidos se mantengan validos por mucho tiempo.
+
+### Este codigo esta bajo licencia GNU LESSER GENERAL PUBLIC LICENSE Version 3
